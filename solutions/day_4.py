@@ -70,3 +70,4 @@ for card in formatted_data:
     for card_to_add in cards_to_add:
         card_nums[card_to_add] += 1 * num_of_current_card
 part_2 = sum(card_nums.values())
+# 11787590
